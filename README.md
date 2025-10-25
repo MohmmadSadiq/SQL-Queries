@@ -27,9 +27,7 @@ This is where the data comes to life. I moved far beyond simple `SELECT` stateme
 
 This is the architectural blueprint for our entire analytical journey. This normalized schema is the solid foundation upon which all insights are built, ensuring every query is both accurate and efficient.
 
-![VehicleDB Schema](image_94d12<img width="1028" height="813" alt="VehicleDetails" src="https://github.com/user-attachments/assets/a4a1b8cb-75ee-4235-a9a2-2d0f9d30762d" />
-c.png)
-
+width="1028" height="813" alt="VehicleDetails" src="https://github.com/user-attachments/assets/a4a1b8cb-75ee-4235-a9a2-2d0f9d30762d"
 ---
 
 ## 📂 Repository Content
